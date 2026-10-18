@@ -62,9 +62,9 @@ The baseline is used as a comparison method. Its sensitivity depends on the sele
 - CSV export of monitoring results
 - Model limitations and interpretation guidance
 
-##Live Dashboard
+## Live Dashboard
 
-"Open the Digital Twin Dashboard" (https://digital-twin-for-predictive-maintenance-g3nz4zbtjhtguwz6lsigtm.streamlit.app/)
+https://digital-twin-for-predictive-maintenance-g3nz4zbtjhtguwz6lsigtm.streamlit.app/
 
 Explore historical bearing vibration trends, anomaly detection results, bearing-state indicators, and model evaluation through the interactive dashboard.
 
