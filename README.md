@@ -90,7 +90,7 @@ git clone https://github.com/harshiniip/Digital-Twin-for-Predictive-Maintenance.
 cd Digital-Twin-for-Predictive-Maintenance
 ```
 
-### 2. Create a virtual environment (recommended)
+### 2. Create a virtual environment 
 
 ```bash
 python -m venv venv
