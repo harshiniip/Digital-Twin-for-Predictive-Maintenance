@@ -148,6 +148,3 @@ This project is a software-based prototype demonstrating a historical-data-drive
 
 The project uses the NASA IMS Bearing Dataset for experimental analysis.
 
-## License
-
-No licence has been specified yet. Add an appropriate open-source licence if you intend to permit others to reuse or modify this project.
